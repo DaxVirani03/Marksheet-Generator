@@ -58,4 +58,4 @@ This is a basic Django project that has two main parts:
 
 Dax Virani
 B.Tech in AI & ML  
-GitHub: [@your-username](https://github.com/DaxVirani03)
+GitHub: [@DaxVirani03](https://github.com/DaxVirani03)
