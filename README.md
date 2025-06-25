@@ -25,7 +25,7 @@ This is a basic Django project that has two main parts:
 
 1. Clone the project
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DaxVirani03/Marksheet-Generator.git
    cd your-repo-name
    ```
 
@@ -56,6 +56,6 @@ This is a basic Django project that has two main parts:
 
 ## 👤 Author
 
-Your Name  
+Dax Virani
 B.Tech in AI & ML  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/DaxVirani03)
